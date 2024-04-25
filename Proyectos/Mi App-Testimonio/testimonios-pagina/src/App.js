@@ -1,9 +1,10 @@
-import logo from './logo.svg';
+import Testimonio from './componentes/Testimonio';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+    <Testimonio />
 
     </div>
   );
