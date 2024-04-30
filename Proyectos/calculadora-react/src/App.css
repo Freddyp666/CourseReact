@@ -1,0 +1,38 @@
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #282c34;
+  color: white;
+  font-family: Lato, sans-serif;
+}
+.logo-contenedor{
+  width: 50%;
+  height: 500px;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.calculadora-contenedor{
+  width: 300px; ;
+  height: 1200px;
+  background-color: #000235;
+  color: white;
+  border:2px solid white;
+  border-radius: 20px;
+  padding: 14px;
+  margin: 20px;
+}
+
+.fila{
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
